@@ -342,7 +342,7 @@ except FileNotFoundError:
 # ─────────────────────────────────────────────────────────────────────────────
 # En-tête
 # ─────────────────────────────────────────────────────────────────────────────
-st.title("🛡️ ADI Maroc — Évaluation du Risque de Sinistre")
+st.title("ADI Maroc — Évaluation du Risque de Sinistre")
 st.markdown(
     "Outil d'aide à la décision pour l'évaluation du risque de sinistre sur un "
     "portefeuille de contrats **Assurance Décès Emprunteur (ADI)**. "
